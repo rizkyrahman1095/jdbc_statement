@@ -28,7 +28,10 @@ Before running application, run command below. Make sure maven installed on your
 Run application with IDE like picture below
 ![Run application] (https://github.com/rizkyrahman1095/jdbc_statement/assets/138502501/5957ec44-68f3-4d3b-83de-f4d156d65ea9)
 
+![run](https://github.com/rizkyrahman1095/jdbc_statement/assets/138502501/7389479a-4cd8-4385-8512-09ddfffe4706)
+
 
 ### Result
 The result of the application is as shown in the picture below
 ![the result image] (https://github.com/rizkyrahman1095/jdbc_statement/assets/138502501/18d0e919-a950-40de-bb9d-212283e55bd4)
+![result](https://github.com/rizkyrahman1095/jdbc_statement/assets/138502501/14821ca7-4a8d-45d0-989d-d0db4ff0cdcf)
